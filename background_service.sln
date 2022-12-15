@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{2A3133E6-228D-4B81-BDD4-F84FFE3D416D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{B6AF590D-9EB5-4FA9-9FAC-14562F9C4DA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{F5761BC3-7AAC-46ED-9992-939DF5B2A568}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{DD04A90B-59BA-4453-A47D-029C3CA2B335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleService", "ExampleService\ExampleService.csproj", "{6CD656DC-E0DC-4263-97AE-DEDAC5002E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD656DC-E0DC-4263-97AE-DEDAC5002E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD656DC-E0DC-4263-97AE-DEDAC5002E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD656DC-E0DC-4263-97AE-DEDAC5002E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD656DC-E0DC-4263-97AE-DEDAC5002E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
